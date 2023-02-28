@@ -1,4 +1,4 @@
-import ForzaHorizon, { DataOut } from "./forza";
+import ForzaHorizon, { DataOut } from "./dist/main";
 const chalk = require("chalk");
 const forzaHorizon = new ForzaHorizon(3001);
 const log = console.log;
