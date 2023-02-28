@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "forza-horizon-telemetry",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Kazim",
+  "license": "ISC",
+  "description": ""
+}
